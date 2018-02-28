@@ -1,14 +1,6 @@
 # TinyBitcoin
 
-A bitcoin implementation in Go, as described in these articles:
-
-1. [Basic Prototype](https://jeiwan.cc/posts/building-blockchain-in-go-part-1/)
-2. [Proof-of-Work](https://jeiwan.cc/posts/building-blockchain-in-go-part-2/)
-3. [Persistence and CLI](https://jeiwan.cc/posts/building-blockchain-in-go-part-3/)
-4. [Transactions 1](https://jeiwan.cc/posts/building-blockchain-in-go-part-4/)
-5. [Addresses](https://jeiwan.cc/posts/building-blockchain-in-go-part-5/)
-6. [Transactions 2](https://jeiwan.cc/posts/building-blockchain-in-go-part-6/)
-7. [Network](https://jeiwan.cc/posts/building-blockchain-in-go-part-7/)
+A bitcoin implementation in Go
 
 ## Implementation
 
@@ -246,5 +238,15 @@ Balance of '1H6R4pbAtesRpCAxyWe3qkcpZcGUkgq286': 9
 ➜  tiny-bitcoin ./tiny-bitcoin getbalance -address $WALLET_3
 Balance of '1gKUgagCP9r782EMe7T67bXBJZMJeg5VZ': 2
 ```
+
+## Reference
+
+1. [Basic Prototype](https://jeiwan.cc/posts/building-blockchain-in-go-part-1/)
+2. [Proof-of-Work](https://jeiwan.cc/posts/building-blockchain-in-go-part-2/)
+3. [Persistence and CLI](https://jeiwan.cc/posts/building-blockchain-in-go-part-3/)
+4. [Transactions 1](https://jeiwan.cc/posts/building-blockchain-in-go-part-4/)
+5. [Addresses](https://jeiwan.cc/posts/building-blockchain-in-go-part-5/)
+6. [Transactions 2](https://jeiwan.cc/posts/building-blockchain-in-go-part-6/)
+7. [Network](https://jeiwan.cc/posts/building-blockchain-in-go-part-7/)
 
 
